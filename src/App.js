@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Home from './components/Home';
+import LawyerDashboard from './components/common/LawyerDashboard/LawyerDashboard';
 
 function App() {
   return (
     <div className="App">
-     <Home/>
+     <LawyerDashboard/>
     </div>
   );
 }

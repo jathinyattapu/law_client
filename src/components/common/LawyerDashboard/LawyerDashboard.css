@@ -1,0 +1,29 @@
+nav .NavbarHover:hover,nav .NavbarHover:hover div,.css-1r9jet7 button:hover{
+    background-Color: #415094;
+    color: white;
+    transition: ease;
+}
+
+nav .NavbarHoversub a:hover,nav .NavbarHoversub a:hover div{
+    background-Color: #415094;
+    color: white;
+    transition: ease;
+}
+
+
+nav .NavbarHover:hover div svg{
+    transform: scale(1.35);
+}   
+
+nav .NavbarHover{
+    background-color: transparent;
+}
+
+.Navbar-Hide>div, .Navbar-Hide nav{
+    background-color: transparent;
+}
+
+
+
+
+
